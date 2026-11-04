@@ -60,13 +60,5 @@ public class BasicCalculator {
 
 
 
-/*Grade Evaluation Program
-○ Take student marks and print Grade (A/B/C/Fail) using conditional logic.*/
-
-
-
-/*Bank Management Console App (Basic Version)
-● Menu-driven program: Deposit, Withdraw, Check Balance
-● Use Scanner, Loops, and Conditional Statements*/
 
 
